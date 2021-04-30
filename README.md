@@ -19,7 +19,7 @@
 
 **Prototypes:** We utilized Adobe XD tool to produce a clickable high fidelity prototype.
 
-*   <a href="https://xd.adobe.com/view/bf39d4ea-35a7-472f-a6e6-fb0c351da254-ea6a/?fullscreen&hints=off" target="blank">Print and Polish High-Fidelity Demo Link </a>
+*   [Print and Polish High-Fidelity Demo Link](https://xd.adobe.com/view/bf39d4ea-35a7-472f-a6e6-fb0c351da254-ea6a/?fullscreen&hints=off)
 *   Screenshots:
     Home Page and Services Page
     ![Lisa's Nails Home Page](img/1.Home.png)
