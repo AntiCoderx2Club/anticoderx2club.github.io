@@ -16,9 +16,10 @@
 
 **Highlights:** Our project is special because it's to help a local business keep up with today's online-focused business format. Local business are more easily discovered if they have a website, and will be visited more often if people know the services offered. Our design is innovative because we are allowing the end users to schedule their service-specific appointments while choosing their favorite technician, if they have one. We also plan to allow workers to reschedule, delete, or change booked appointments and update their availability. We've been told that this may be hard to implement, but if we succeed, it's what will make our project special and innovative.
 
+
 **Prototypes:** We utilized Adobe XD tool to produce a clickable high fidelity prototype.
 
-*   [Print and Polish High-Fidelity Demo Link](https://xd.adobe.com/view/bf39d4ea-35a7-472f-a6e6-fb0c351da254-ea6a/?fullscreen&hints=off)
+*   <a href="https://xd.adobe.com/view/bf39d4ea-35a7-472f-a6e6-fb0c351da254-ea6a/?fullscreen&hints=off" target="blank">Print and Polish High-Fidelity Demo Link </a>
 *   Screenshots:
     Home Page and Services Page
     ![Lisa's Nails Home Page](img/1.Home.png)
