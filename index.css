@@ -1,10 +1,22 @@
 * {
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     margin: 40px;
-    font-family: Arial;
+    /* font-family: Arial; */
+}
+
+h1 {
+    font-family: 'Original Surfer', cursive;
+    color: #775c58;
+    /* #775c58; Brown */
+    /* #f5bfbb; PINK */
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
 }
 
 .row {
@@ -43,5 +55,28 @@ body {
 }
 
 #caption {
-    color: rgba(0, 0, 0, 0.577);
+    color: rgba(0, 0, 0, 0.817);
+}
+
+
+a:hover {
+    color: #775c58;
+    /* color: rgb(226, 122, 43); */
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: underline;
 }
