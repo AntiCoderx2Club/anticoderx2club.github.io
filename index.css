@@ -17,9 +17,16 @@ h1 {
 p {
     font-family: 'Roboto Mono', monospace;
 }
+
+
 strong{
     font-size: 25px;
     color: #f96e64;
+}
+
+.timeline strong {
+    font-size: 16px;
+    color: black;
 }
 
 a{
