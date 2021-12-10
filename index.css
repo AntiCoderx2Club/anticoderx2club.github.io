@@ -9,18 +9,23 @@ body {
 }
 
 h1 {
-    font-size: xxx-large;
+    font-size: 60px;
     font-family: 'Original Surfer', cursive;
     color: #e185b3; 
-    /* #F5BFDA; */
-    /* #c2867d; */
-    /* #775c58; Brown */
-    /* #f5bfbb; PINK */
 }
 
 p {
     font-family: 'Roboto Mono', monospace;
 }
+strong{
+    font-size: 25px;
+    color: #f96e64;
+}
+
+a{
+    font-family: 'Roboto Mono', monospace;
+}
+
 
 ul{
     font-family: 'Roboto Mono',monospace;
@@ -50,8 +55,6 @@ li {
     width: 200px;
     height: 200px;
     object-fit: cover;
-
-
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -74,27 +77,28 @@ li {
     color: rgba(0, 0, 0, 0.817);
 }
 
-
 a:hover {
-    color: #F5BFDA;
-    /* color: rgb(226, 122, 43); */
+    font-weight: 400px ;
+    color: #f96e64;
     text-decoration: none;
+    background-color: #ffc4c486;
+    border-radius: 0.2em;
+}
+
+
+.card a:hover { 
+    color:#727cf5;
+     text-decoration: none;
+     background-color: white;
 }
 
 a:link {
+    color:#f96e64;
     text-decoration: none;
 }
 
 a:visited {
     text-decoration: none;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-a:active {
-    text-decoration: underline;
 }
 
 code {
